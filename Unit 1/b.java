@@ -13,7 +13,7 @@ class b {
         s1 = new Student();
         s2 = new Student();
         s3 = new Student();
-        s1.college = "GNIOT";
+        s1.college = "GNIOT"; // or Student.college = "Gniot";  as static can directly accessed by Class. 
         s1.name = "Ansh";
         s2.name = "Anup";
         s3.name = "Vishesh";
