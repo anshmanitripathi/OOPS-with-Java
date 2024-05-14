@@ -1,4 +1,4 @@
-import java.util.*;
+// import java.util.*;
 class g_jagged_array {
     public static void main(String[] args) {
        int[] x ={4,7,24,9,454,6}; 
