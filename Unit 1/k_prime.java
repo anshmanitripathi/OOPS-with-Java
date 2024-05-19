@@ -4,6 +4,7 @@ class k_prime {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         int number= sc.nextInt();
+
         if(isPrime(number)) {
             System.out.println(number + " is prime number");
         }
@@ -11,7 +12,7 @@ class k_prime {
             System.out.println(number + " is a non-prime number");
         }
     }
-    static  boolean isPrime(int num)
+    static  boolean isPrime(int num) //boolean function
     {
         if(num<=1)
         {
