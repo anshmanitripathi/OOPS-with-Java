@@ -12,7 +12,7 @@ class k_prime {
             System.out.println(number + " is a non-prime number");
         }
     }
-    static  boolean isPrime(int num) //boolean function
+    static boolean isPrime(int num) //boolean function
     {
         if(num<=1)
         {

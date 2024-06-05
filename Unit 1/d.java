@@ -6,7 +6,7 @@ class Student{
         System.out.println("Rollno:"+ rollno);
         System.out.println("Name:"+ name);
         System.out.println("Colllege :"+ college);
-        //  non static functions static as well as non static dono members dono ko access kar sakte hain.
+        //  non static functions - static aur non static dono members ko access kar sakte hain.
     }
 
     static void printDetalis2(){
